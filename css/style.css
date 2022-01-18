@@ -158,10 +158,13 @@ section.home {
 }
 
 .home-img {
-  position: absolute;
-  bottom: 0;
+  position: relative;
+  align-content: center;
+  bottom: 20;
   right: 0;
-  height: 110%;
+  left: 20;
+  height: 80%;
+  padding-left: 30;
 }
 
 /* SERVICES PAGE */
